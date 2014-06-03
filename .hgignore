@@ -1,0 +1,9 @@
+syntax: glob
+
+*~
+*.pyc
+.DS_Store
+.project
+.pydevproject
+.idea
+network
