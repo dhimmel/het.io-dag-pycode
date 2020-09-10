@@ -9,7 +9,7 @@ DOI: [10.1371/journal.pcbi.1004259](https://doi.org/10.1371/journal.pcbi.1004259
 
 ## History
 
-This repository originally used mercurial and was hosted on BitBucket at `https://bitbucket.org/dhimmel/rhetio`.
+This repository originally used mercurial and was hosted on BitBucket at `https://bitbucket.org/dhimmel/pyhetio`.
 Unfortunately, BitBucket [deleted](https://community.atlassian.com/t5/Bitbucket-articles/What-to-do-with-your-Mercurial-repos-when-Bitbucket-sunsets/ba-p/1155380) mercurial repos in 2020 without an automated migration path.
 On 2020-09-10, dhimmel realized this source code was no longer online.
 
