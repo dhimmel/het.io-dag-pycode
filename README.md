@@ -1,11 +1,13 @@
 # Python Code for Hetio Disease-Gene Prediction Study
 
-This repository contains Python code for the study:
+This repository contains a portion of the Python code related to the study:
 
 > **Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes**  
 Daniel S. Himmelstein, Sergio E. Baranzini  
 *PLOS Computational Biology* (2015-07-09) <https://doi.org/98q>  
 DOI: [10.1371/journal.pcbi.1004259](https://doi.org/10.1371/journal.pcbi.1004259) · PMID: [26158728](https://www.ncbi.nlm.nih.gov/pubmed/26158728) · PMCID: [PMC4497619](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4497619)
+
+See also <https://github.com/dhimmel/serg-pycode> for Python code related to this study.
 
 ## History
 
